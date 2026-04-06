@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Joshua Hallaway
+Astrophysics and Math student at the University of Hawai‘i at Mānoa interested in QCD and particle physics
 
-<!--
-**joshua-hallaway/joshua-hallaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects 
+- [Bragg's Law Microwave Defraction](https://github.com/joshua-hallaway/braggs-law-lab) - Gaussian fitting and error propigation of crystal diffraction data
+- [CMS Jet Analysis](https://github.com/joshua-hallaway/cms-jet-analysis) - Jet kinematics from real LHC collision data using CERN Open Data
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Data Analysis and Visualization
+- Error Propigation and Statistical Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- joshua.hallaway@gmail.com
